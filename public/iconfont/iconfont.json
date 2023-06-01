@@ -1,0 +1,93 @@
+{
+  "id": "4042317",
+  "name": "朋友圈",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1356219",
+      "name": "眼睛-睁",
+      "font_class": "yanjing-zheng",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "1135",
+      "name": "竖状图",
+      "font_class": "shuzhuangtu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "677589",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "924719",
+      "name": "文章",
+      "font_class": "wenzhang",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "925646",
+      "name": "头像",
+      "font_class": "touxiang",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "999219",
+      "name": "更多",
+      "font_class": "ai238",
+      "unicode": "e6e2",
+      "unicode_decimal": 59106
+    },
+    {
+      "icon_id": "1727436",
+      "name": "211铃铛-线性",
+      "font_class": "lingdang-xianxing",
+      "unicode": "e8c0",
+      "unicode_decimal": 59584
+    },
+    {
+      "icon_id": "2076426",
+      "name": "搜索小",
+      "font_class": "sousuoxiao",
+      "unicode": "e8d6",
+      "unicode_decimal": 59606
+    },
+    {
+      "icon_id": "2678633",
+      "name": "视频直播",
+      "font_class": "shipinzhibo",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "4608980",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "13954632",
+      "name": "宣传海报",
+      "font_class": "xuanchuanhaibao",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "18166121",
+      "name": "公文包,工具箱,手提包,行李包",
+      "font_class": "briefcase-full",
+      "unicode": "e8b7",
+      "unicode_decimal": 59575
+    }
+  ]
+}

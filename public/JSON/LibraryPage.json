@@ -1,0 +1,359 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "data": [
+    {
+      "value": "全部",
+      "label": "全部",
+      "id": "1",
+      "state": "可见",
+      "correlation": "栏目直接关联内容",
+      "updater": "银保业务员版",
+      "date": "14:07:27",
+      "children": []
+    },
+    {
+      "value": "小白课堂",
+      "label": "小白课堂",
+      "id": "1-1",
+      "state": "可见",
+      "correlation": "栏目直接关联内容",
+      "updater": "银保业务员版",
+      "date": "2023-05-07",
+      "date1": "14:07:27",
+      "children": []
+    },
+    {
+      "value": "李晓阳一级",
+      "label": "李晓阳一级",
+      "id": "2",
+      "state": "可见",
+      "correlation": "栏目直接关联内容",
+      "updater": "o",
+      "date": "2023-05-07",
+      "date1": "14:07:27",
+      "children": [
+        {
+          "value": "全部",
+          "label": "全部",
+          "id": "2-1",
+          "state": "可见",
+          "Upper": "李晓阳一级",
+          "correlation": "栏目直接关联内容",
+          "updater": "银保业务员版",
+          "date": "2023-05-07",
+          "date1": "14:07:27"
+        },
+        {
+          "value": "李晓阳一级",
+          "label": "李晓阳一级",
+          "id": "2-2",
+          "state": "可见",
+          "Upper": "李晓阳一级",
+          "correlation": "栏目直接关联内容",
+          "updater": "银保业务员版",
+          "date": "2023-05-07",
+          "date1": "14:07:27"
+        },
+        {
+          "value": "李晓阳二级",
+          "label": "李晓阳二级",
+          "id": "2-3",
+          "state": "可见",
+          "Upper": "李晓阳一级",
+          "correlation": "栏目直接关联内容",
+          "updater": "银保业务员版",
+          "date": "2023-05-07",
+          "date1": "14:07:27"
+        }
+      ]
+    },
+    {
+      "value": "增员选材",
+      "label": "增员选材",
+      "id": "3",
+      "state": "可见",
+      "correlation": "栏目直接关联内容",
+      "updater": "EYtSOAShhL2ec",
+      "date": "2020-01-16",
+      "date1": "16:26:38",
+      "children": [
+        {
+          "value": "全部",
+          "label": "全部",
+          "id": "3-1",
+          "state": "可见",
+          "Upper": "增员选材",
+          "correlation": "栏目直接关联内容",
+          "updater": "olxx7wlEYtsoAS_ad8slqbhhl2ec",
+          "date": "2020-01-16",
+          "date1": "16:26:28"
+        },
+        {
+          "value": "基本法",
+          "label": "基本法",
+          "id": "3-2",
+          "state": "可见",
+          "Upper": "李晓阳一级",
+          "correlation": "栏目直接关联内容",
+          "updater": "银保业务员版",
+          "date": "2023-05-07",
+          "date1": "14:07:27"
+        },
+        {
+          "value": "招募工具",
+          "label": "招募工具",
+          "id": "3-3",
+          "state": "可见",
+          "Upper": "李晓阳一级",
+          "correlation": "栏目直接关联内容",
+          "updater": "银保业务员版",
+          "date": "2023-05-07",
+          "date1": "14:07:27"
+        }
+      ]
+    },
+    {
+      "value": "基础管理",
+      "label": "基础管理",
+      "id": "4",
+      "state": "可见",
+      "correlation": "栏目直接关联内容",
+      "updater": "EYtSOAShhL2ec",
+      "date": "2020-01-16",
+      "date1": "16:26:38",
+      "children": [
+        {
+          "value": "全部",
+          "label": "全部",
+          "id": "4-1",
+          "state": "可见",
+          "Upper": "增员选材",
+          "correlation": "栏目直接关联内容",
+          "updater": "olxx7wlEYtsoAS_ad8slqbhhl2ec",
+          "date": "2020-01-16",
+          "date1": "16:26:28"
+        },
+        {
+          "value": "基本法",
+          "label": "基本法",
+          "id": "4-2",
+          "state": "可见",
+          "Upper": "增员选材",
+          "correlation": "栏目直接关联内容",
+          "updater": "银保业务员版",
+          "date": "2023-05-07",
+          "date1": "14:07:27"
+        },
+        {
+          "value": "招募工具",
+          "label": "招募工具",
+          "id": "4-3",
+          "state": "可见",
+          "Upper": "增员选材",
+          "correlation": "栏目直接关联内容",
+          "updater": "银保业务员版",
+          "date": "2023-05-07",
+          "date1": "18:12:58"
+        }
+      ]
+    },
+    {
+      "value": "销售支持",
+      "label": "销售支持",
+      "id": "5",
+      "state": "可见",
+      "correlation": "栏目直接关联内容",
+      "updater": "EYtSOAShhL2ec",
+      "date": "2020-01-16",
+      "date1": "16:26:38",
+      "children": [
+        {
+          "value": "全部",
+          "label": "全部",
+          "id": "5-1",
+          "state": "可见",
+          "Upper": "销售支持",
+          "correlation": "栏目直接关联内容",
+          "updater": "olxx7wlEYtsoAS_ad8slqbhhl2ec",
+          "date": "2020-01-16",
+          "date1": "16:26:28"
+        },
+        {
+          "value": "客户积累",
+          "label": "客户积累",
+          "id": "5-2",
+          "state": "可见",
+          "Upper": "销售支持",
+          "correlation": "栏目直接关联内容",
+          "updater": "银保业务员版",
+          "date": "2023-05-07",
+          "date1": "14:07:27"
+        },
+        {
+          "value": "产品",
+          "label": "产品",
+          "id": "5-3",
+          "state": "可见",
+          "Upper": "销售支持",
+          "correlation": "栏目直接关联内容",
+          "updater": "银保业务员版",
+          "date": "2023-05-07",
+          "date1": "18:12:58"
+        }
+      ]
+    },
+    {
+      "value": "基础知识",
+      "label": "基础知识",
+      "id": "6",
+      "state": "可见",
+      "correlation": "栏目直接关联内容",
+      "updater": "EYtSOAShhL2ec",
+      "date": "2020-01-16",
+      "date1": "16:26:38",
+      "children": [
+        {
+          "value": "全部",
+          "label": "全部",
+          "id": "6-1",
+          "state": "可见",
+          "Upper": "基础知识",
+          "correlation": "栏目直接关联内容",
+          "updater": "olxx7wlEYtsoAS_ad8slqbhhl2ec",
+          "date": "2020-01-16",
+          "date1": "16:26:28"
+        },
+        {
+          "value": "行业",
+          "label": "行业",
+          "id": "6-2",
+          "state": "可见",
+          "Upper": "基础知识",
+          "correlation": "栏目直接关联内容",
+          "updater": "银保业务员版",
+          "date": "2023-05-07",
+          "date1": "14:07:27"
+        },
+        {
+          "value": "公司",
+          "label": "公司",
+          "id": "6-3",
+          "state": "可见",
+          "Upper": "基础知识",
+          "correlation": "栏目直接关联内容",
+          "updater": "银保业务员版",
+          "date": "2023-05-07",
+          "date1": "18:12:58"
+        }
+      ]
+    },
+    {
+      "value": "保险理念",
+      "label": "保险理念",
+      "id": "7",
+      "state": "可见",
+      "correlation": "栏目直接关联内容",
+      "updater": "银保业务员版",
+      "date": "14:50:27",
+      "date1": "2023-10-5",
+      "children": []
+    },
+    {
+      "value": "典藏版",
+      "label": "典藏版",
+      "id": "8",
+      "state": "可见",
+      "correlation": "栏目直接关联内容",
+      "updater": "EYtSOAShhL2ec",
+      "date": "2020-01-16",
+      "date1": "16:26:38",
+      "children": [
+        {
+          "value": "全部",
+          "label": "全部",
+          "id": "8-1",
+          "state": "可见",
+          "Upper": "基础知识",
+          "correlation": "栏目直接关联内容",
+          "updater": "olxx7wlEYtsoAS_ad8slqbhhl2ec",
+          "date": "2020-01-16",
+          "date1": "16:26:28"
+        },
+        {
+          "value": "典藏版1",
+          "label": "典藏版1",
+          "id": "8-2",
+          "state": "可见",
+          "Upper": "基础知识",
+          "correlation": "栏目直接关联内容",
+          "updater": "银保业务员版",
+          "date": "2023-05-07",
+          "date1": "14:07:27"
+        }
+      ]
+    },
+    {
+      "value": "中介测试",
+      "label": "中介测试",
+      "id": "9",
+      "state": "可见",
+      "correlation": "栏目直接关联内容",
+      "updater": "银保业务员版",
+      "date": "14:07:27",
+      "date1": "2021-10-5",
+      "children": []
+    },
+    {
+      "value": "华夏时讯",
+      "label": "华夏时讯",
+      "id": "10",
+      "state": "可见",
+      "correlation": "栏目直接关联内容",
+      "updater": "银保业务员版",
+      "date": "14:07:27",
+      "date1": "2021-11-5",
+      "children": []
+    },
+    {
+      "value": "捐赠保险",
+      "label": "捐赠保险",
+      "id": "11",
+      "state": "可见",
+      "correlation": "栏目直接关联内容",
+      "updater": "EYtSOAShhL2ec",
+      "date": "2020-01-16",
+      "date1": "16:26:38",
+      "children": [
+        {
+          "value": "全部",
+          "label": "全部",
+          "id": "11-1",
+          "state": "可见",
+          "Upper": "捐赠保险",
+          "correlation": "栏目直接关联内容",
+          "updater": "olxx7wlEYtsoAS_ad8slqbhhl2ec",
+          "date": "2020-01-16",
+          "date1": "16:26:28"
+        },
+        {
+          "value": "海报",
+          "label": "海报",
+          "id": "11-2",
+          "state": "可见",
+          "Upper": "捐赠保险",
+          "correlation": "栏目直接关联内容",
+          "updater": "银保业务员版",
+          "date": "2023-05-07",
+          "date1": "14:07:27"
+        }
+      ]
+    }
+  ]
+}
